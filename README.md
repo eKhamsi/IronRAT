@@ -1,6 +1,4 @@
 # 🔐 **IronRAT** - _Ethical Remote Administration Toolkit_  
-## ⚠️ **Legal Notice**  
-
 
 
 
