@@ -1,0 +1,15 @@
+
+colorama==0.4.6
+numpy==1.24.4
+opencv-python==4.8.1.78
+pillow==10.1.0
+pyautogui==0.9.54
+pyscreenshot==3.1
+sounddevice==0.4.6
+wave==0.0.2
+flask==3.0.0
+pynput==1.7.6
+
+
+# Windows-only:
+# pywin32==306  # For advanced Windows features
